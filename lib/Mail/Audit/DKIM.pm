@@ -4,6 +4,8 @@ use warnings;
 package Mail::Audit::DKIM;
 use Mail::DKIM::Verifier;
 
+our $VERSION = '0.001';
+
 use Sub::Exporter -setup => {
   into    => 'Mail::Audit',
   exports => [ qw(result result_detail passes) ],
