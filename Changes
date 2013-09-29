@@ -1,6 +1,8 @@
 Revision history for Mail-Audit-DKIM
 
 {{$NEXT}}
+
+0.003     2013-09-28 21:21:30 America/New_York
           update bugtracker, build system, repo metadata
 
 0.002     2007-12-04
