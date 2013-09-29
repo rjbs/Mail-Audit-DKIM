@@ -18,7 +18,7 @@ my %file = (
   'bad_ietf01_1.txt'  => 'fail',
   'good_ietf00_1.txt' => 'pass',
   'mine_ietf01_1.txt' => 'pass',
-  'no-sig.t'          => 'none',
+  'no-sig.txt'        => 'none',
 );
 
 for my $file (keys %file) {
