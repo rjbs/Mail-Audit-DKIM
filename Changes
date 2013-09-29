@@ -1,3 +1,7 @@
+Revision history for Mail-Audit-DKIM
+
+{{$NEXT}}
+          update bugtracker, build system, repo metadata
 
 0.002     2007-12-04
           test for "none" result

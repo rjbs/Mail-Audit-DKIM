@@ -1,9 +1,0 @@
-MANIFEST.SKIP
-^\.git/
-.svn/
-.gitignore
-blib\b
-cover_db
-^Makefile$
-^Makefile.old$
-\.bak$
